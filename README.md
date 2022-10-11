@@ -5,7 +5,7 @@ Prototype for Interface to AA data
 
 <img width="489" alt="Screen Shot 2022-10-09 at 5 34 51 PM" src="https://user-images.githubusercontent.com/109235609/194780454-2aba2329-568b-4546-a4bd-c60271653547.png">
 
-Using the grid system I have divided my prototype into 12 quadrants. This design allows to construct the argument objectively by giving options to the users in top row to navigate in a form of a navigation bar for the users; to go to home page, find location, filter days and see a tabular view. 
+Using the grid system I have divided my prototype into 12 quadrants. This design allows to construct the argument objectively by giving options to the users in top row to navigate in a form of a navigation bar; to go to home page, find location, filter days and see a tabular view. 
 The user can sign in as well on the website for online meetings and get notifications in email. [This is an assumptiion so this online will be a static page in the design]. 
 
 To construct text and illustration on the design systematically, in the centre row on left, user will be able to enter the location, as it is not captured while viewing the webpage keeping user privacy intact. In the same section user will be able to select the meeting days, on which day they want to attend a meeting. This is a filter allowing the user to provide input for one or multiple days.
